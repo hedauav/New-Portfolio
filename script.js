@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Typing animation
     const typedTextSpan = document.querySelector(".typed-text");
     const cursor = document.querySelector(".cursor");
-    const words = ["Web Developer", "UI/UX Designer", "Freelancer", "Creative Thinker"];
+    const words = ["Web Developer", "UI/UX Designer", "Web Designer", "Creative Thinker"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
